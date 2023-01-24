@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">0dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="ivSize">35dp</dimen>
+    <dimen name="textSize">25sp</dimen>
+    <dimen name="marginLeft">10dp</dimen>
+    <dimen name="cornerRadius">12dp</dimen>
+</resources>
